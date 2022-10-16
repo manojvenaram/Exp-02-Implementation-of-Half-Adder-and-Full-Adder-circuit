@@ -61,7 +61,7 @@ endmodule
 ![](1.png)
 ## Full adder
 ![](3.png)
-RTL realization
+## RTL realization
 ## Half adder 
 ![](2.png)
 ## Full adder
